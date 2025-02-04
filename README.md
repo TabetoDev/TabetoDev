@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**TabetoDev/TabetoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Gustavo**, un kinesiologo apasionado por la programación, la inteligencia artificial, las ciencias de datos y la tecnología. Vivo en el hermoso sur de Chile, donde siempre estoy buscando aprender nuevas habilidades y mejorar mis conocimientos.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Profesión**: Kinesiologo
+- 💻 **Intereses**: Programación, Inteligencia Artificial, Ciencias de Datos, Tecnología
+- 🌍 **Ubicación**: Sur de Chile
+- 📚 **Siempre aprendiendo**: Me encanta adquirir nuevas habilidades y mantenerme actualizado con las últimas tendencias tecnológicas.
+
+## Contacto
+
+- **Correo electrónico**: gustavo.reyes.c@gmail.com
+- **LinkedIn**: tu-perfil-linkedin
+- **GitHub**: TabetoDev
+
+¡Gracias por visitar mi perfil! 😊
