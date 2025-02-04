@@ -12,7 +12,6 @@ Soy **Gustavo**, un kinesiologo apasionado por la programación, la inteligencia
 ## Contacto
 
 - **Correo electrónico**: gustavo.reyes.c@gmail.com
-- **LinkedIn**: tu-perfil-linkedin
 - **GitHub**: TabetoDev
 
 ¡Gracias por visitar mi perfil! 😊
